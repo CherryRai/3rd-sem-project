@@ -287,10 +287,12 @@ border-radius: 10px;
     margin: 0 5vh;
     width: 60vh;
 }
-footer{
+
+footer {
     display: flex;
     justify-content: center;
 }
+
 .foot {
     background-color: #9a674d;
     color: white;
@@ -302,6 +304,7 @@ footer{
     font-weight: 800;
     font-style: normal;
     font-size: 20px;
+    border-radius: 25px;
 }
 
 .center {
